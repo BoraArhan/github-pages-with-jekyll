@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my blog"
+title: "Bora Computer Science Website"
 ---
 
-I'm glad you are here. I plan to talk about ...
