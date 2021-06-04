@@ -1,3 +1,8 @@
+---
+title: "Bora Arhan Website"
+date: 2021-06-03
+---
+
 My name is Bora Arhan
 
 Social Media: 
